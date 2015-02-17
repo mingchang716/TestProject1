@@ -9,6 +9,10 @@
 	Hello TransUnion!  
 </h1>
 
+<h2>
+	Hello Java COE!
+</h2>
+
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
